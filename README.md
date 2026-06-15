@@ -64,14 +64,6 @@ A production e-commerce monorepo with complete auth (JWT + refresh tokens, email
 
 ---
 
-## 📊 GitHub Stats
-
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-techdev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-techdev&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📜 Certifications
 
 - **IBM Full Stack Software Developer** — IBM (2025)
