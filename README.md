@@ -93,6 +93,17 @@ A Shopify embedded app for merchant workflow/data synchronization. Set up authen
 
 ---
 
+## 🏆 Highlights
+
+- 🚀 Designed and shipped **10+ production-grade applications** across full-stack web, distributed microservices, developer tooling, and cloud-native services
+- 🧩 Architected an **8-service microservices backend** (ShopSphere) with Kafka event pipelines, service discovery, and schema-per-service isolation
+- ☁️ Built a **full CI/CD pipeline to AWS ECS** (GitHub Actions → ECR → ECS) with dual-environment design switchable via env vars alone
+- 🧪 Wrote **100+ automated tests** for a single project, with TDD, integration testing, and fault-injection harnesses across the portfolio
+- 📦 Published **open-source developer tools** solving real gaps in modern React/Node tooling (RSC Storybook Bridge, React 19 migration analyzer, SSE reliability kit)
+- 📋 Delivered **32 Jira user stories** across multiple sprints using Agile/Scrum, GitFlow branching, and CI gates enforced before merge
+
+---
+
 ## 📜 Certifications
 
 - **IBM Full Stack Software Developer** — IBM (2025)
