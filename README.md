@@ -40,27 +40,56 @@ I build production-grade applications: distributed microservices, cloud-native s
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### [ShopSphere — Microservices E-Commerce Backend](https://github.com/dhruv-techdev/ShopSphere-Microservices-E-Commerce)
-`Java 21` · `Spring Boot 3` · `Spring Cloud` · `Kafka` · `PostgreSQL` · `Redis` · `Docker`
+`Java 21` · `Spring Boot 3` · `Spring Cloud` · `Kafka` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes`
 
-An 8-service production-grade e-commerce backend (Gateway, User, Product, Cart, Order, Inventory, Payment, Notification) with Eureka service discovery, a centralized API Gateway, and a Kafka async event pipeline for order workflows. Schema-per-service DB isolation, JWT RBAC, and OpenAPI 3 specs per service. Delivered across multiple sprints with full GitFlow and CI gates. → [Docs](https://shopsphere-portfolio.vercel.app)
+An 8-service production-grade e-commerce backend (Gateway, User, Product, Cart, Order, Inventory, Payment, Notification) with Eureka service discovery, a centralized API Gateway, and a Kafka async event pipeline for order workflows. Schema-per-service DB isolation, JWT RBAC, Redis-backed cart, and OpenAPI 3 specs per service. Delivered 32 Jira user stories across multiple sprints with full GitFlow and CI gates. → [Docs](https://shopsphere-portfolio.vercel.app)
 
 ### [Fragments — Cloud-Native Microservice](https://github.com/dhruv-techdev/fragments-public)
 `Node.js` · `Express 5` · `AWS S3 + DynamoDB + Cognito` · `GitHub Actions → ECR → ECS`
 
-A REST microservice that stores, retrieves, and converts text/image fragments (Markdown→HTML, PNG→WebP). Dual-environment design — in-memory for dev, S3+DynamoDB for prod — switchable via env vars with zero code changes. Full CI/CD pipeline to AWS ECS, owner-isolated data access, and graceful shutdown handling. → [Live Demo](https://fragments-public.vercel.app/)
+A REST microservice that stores, retrieves, and converts text/image fragments (Markdown→HTML, PNG→WebP). Dual-environment design — in-memory for dev, S3+DynamoDB for prod — switchable via env vars with zero code changes. Full CI/CD pipeline to AWS ECS, owner-isolated data access, 16 unit test files + 14 Hurl integration tests, and graceful shutdown handling. → [Live Demo](https://fragments-public.vercel.app/)
 
-### [VibeCart — Full-Stack E-Commerce Platform](https://dhruv-techdev.vercel.app)
-`TypeScript` · `Express` · `Prisma (20+ models)` · `PostgreSQL` · `React 19` · `JWT`
+### VibeCart — Full-Stack E-Commerce Platform
+`TypeScript` · `Express` · `Prisma (20+ models)` · `PostgreSQL` · `React 19` · `Vite 5` · `Tailwind 4` · `JWT`
 
-A production e-commerce monorepo with complete auth (JWT + refresh tokens, email verification, password reset), product catalog, cart, checkout, and an admin dashboard with RBAC. Sentry error tracking, Pino structured logging, and standardized API response formatting across all endpoints. → [Live Demo](https://vibecart-staging.vercel.app/)
+A production e-commerce monorepo (apps/api, apps/web, packages/shared-types) with complete auth (JWT + refresh tokens, email verification, password reset), product catalog, cart, checkout, and an admin dashboard with RBAC. Audit logging, Sentry error tracking, Pino structured logging, and a standardized API response format across all endpoints. → [Live Demo](https://vibecart-staging.vercel.app/)
 
-### Developer Tooling & Open Source
-- **[React 19 Migration Safety Net](https://react19-migration-safety-net.vercel.app/)** — static analysis CLI with 25+ detection rules and a 0–100 readiness score (101+ tests)
-- **[RSC Storybook Bridge](https://rsc-storybook-bridge-demo-app.vercel.app/)** — brings React Server Components into Storybook via server-data injection
-- **[SSE Streaming Reliability Kit](https://sse-streaming-reliability-kit.vercel.app/)** — zero-dependency SSE client with auto-reconnect, resume, and fault injection testing
+### [AI Job Search Assistant](https://ai-job-search-assistant.vercel.app/)
+`Node.js 20+` · `TypeScript` · `Commander.js` · `OpenRouter` · `Tavily API` · `Zod`
+
+A multi-stage CLI pipeline that reads job-posting PDFs and your resume, then uses LLMs to generate market analysis, skill-gap reports, and a 0–100 readiness score. Built a 4-stage AI pipeline with Zod schema validation on every LLM output, exponential-backoff multi-model fallback, and tiered Markdown action plans — keeping all sensitive data local. → [Live Demo](https://ai-job-search-assistant.vercel.app/)
+
+### [React 19 Migration Safety Net](https://react19-migration-safety-net.vercel.app/)
+`TypeScript 5.9` · `Node.js 20+` · `AST parsing` · `Jest (101+ tests)` · `npm workspaces`
+
+A static-analysis CLI that scans React 16/17/18 codebases for deprecated APIs and unsafe patterns, outputting a 0–100 readiness score with precise file/line/column locations. 25+ detection rules with a weighted risk-scoring algorithm and a 4-package modular architecture (analyzer, runtime, reporter, CLI) integrating with GitHub Actions, GitLab CI, and Jenkins. → [Live Demo](https://react19-migration-safety-net.vercel.app/)
+
+### [RSC Storybook Bridge](https://rsc-storybook-bridge-demo-app.vercel.app/)
+`TypeScript 5.4` · `React 18+` · `Storybook 8` · `Vite 5` · `Vitest` · `MSW` · `PNPM workspaces`
+
+An open-source monorepo library that bridges React Server Components into Storybook via server-data injection, rendering modes (server/client/hybrid), and boundary adapters — solving a real gap in modern React tooling. Includes deterministic rendering controls, per-story MSW mocking, version compatibility checks, and a CI helper with structured diagnostics. → [Live Demo](https://rsc-storybook-bridge-demo-app.vercel.app/)
+
+### [SSE Streaming Reliability Kit](https://sse-streaming-reliability-kit.vercel.app/)
+`TypeScript` · `Node.js 18+` · `Fastify 4` · `Vitest` · `AJV` · `Prometheus`
+
+A production-ready Server-Sent Events toolkit with a zero-dependency client: auto-reconnect (exponential backoff + jitter), resume-from-last-event, deduplication, and liveness detection. State-machine connection lifecycle, Prometheus-compatible metrics, correlation IDs for distributed tracing, and a fault-injection harness with pre-built failure scenarios. → [Live Demo](https://sse-streaming-reliability-kit.vercel.app/)
+
+---
+
+## 💼 Freelance Work
+
+### [Inventory Dashboard — Shopify Embedded App](https://github.com/dhruv-techdev/inventory-dashboard)
+`TypeScript` · `React` · `React Router v7` · `Shopify App Bridge` · `Admin GraphQL API` · `Prisma` · `Docker`
+
+A Shopify embedded app for inventory/product management. Integrated Shopify Admin GraphQL mutations to create products and bulk-update variants, configured app-level permissions (products, metaobjects, metafields), and implemented Prisma-backed OAuth session storage with uninstall/scope-update webhook handlers.
+
+### [SyncFlow — Shopify Embedded App](https://github.com/dhruv-techdev/sync-flow)
+`TypeScript` · `React` · `React Router v7` · `Shopify App Bridge` · `Admin GraphQL API` · `Prisma` · `Docker`
+
+A Shopify embedded app for merchant workflow/data synchronization. Set up authenticated admin routes with Shopify OAuth and App Bridge, implemented app lifecycle webhooks (uninstall, scope updates), and managed deployment, access scopes, and embedded behavior through the Shopify CLI.
 
 ---
 
