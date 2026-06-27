@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer** — backend, cloud, and developer tooling. Based in Toronto, ON 🇨🇦
 
-I build production-grade applications: distributed microservices, cloud-native services, and open-source developer tools. Computer Programming & Analysis graduate (Seneca College, 2026), comfortable shipping across TypeScript, Java, and Python in Docker/Linux environments.
+I build production-grade applications: distributed microservices, cloud-native services, and open-source developer tools. Computer Programming & Analysis graduate Advance Diploma -  (Seneca College, 2026), comfortable shipping across TypeScript, Java, and Python in Docker/Linux environments.
 
 🔗 [Portfolio](https://dhruv-techdev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/dhruv-patel-20b959288) · 📫 dhruv153908@gmail.com
 
