@@ -1,9 +1,9 @@
 <!-- ====================== HEADER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1A1A1A&height=210&section=header&text=Dhruv%20Patel&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20%C2%B7%20Backend%20%C2%B7%20Cloud%20%C2%B7%20Developer%20Tooling&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Dhruv%20Patel&fontColor=ffffff&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20%C2%B7%20Backend%20%C2%B7%20Cloud%20%C2%B7%20Developer%20Tooling&descAlignY=58&descSize=18" alt="header" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=640&height=45&lines=Distributed+microservices+%7C+Kafka+%7C+Kubernetes;Cloud-native+services+on+AWS+ECS;Open-source+developer+tooling;TypeScript+%C2%B7+Java+%C2%B7+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&height=45&lines=Distributed+microservices+%7C+Kafka+%7C+Kubernetes;Cloud-native+services+on+AWS+ECS;Open-source+developer+tooling;TypeScript+%C2%B7+Java+%C2%B7+Python" alt="Typing SVG" />
 
 <p>
   <a href="https://dhruv-techdev.vercel.app">
@@ -43,27 +43,35 @@
 <!-- ====================== STATS ====================== -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruv-techdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=dhruv-techdev&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=dhruv-techdev&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="streak" />
+<br><br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-techdev&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruv-techdev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=86400" alt="GitHub Stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhruv-techdev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-techdev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=86400" alt="Top Languages" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-techdev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="activity" />
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhruv-techdev&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-techdev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruv-techdev/dhruv-techdev/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/dhruv-techdev/dhruv-techdev/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dhruv-techdev/dhruv-techdev/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/IBM_Full_Stack_Developer-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="ibm" />
-<img src="https://img.shields.io/badge/GCP_Database_Engineer-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="gcp" />
-<img src="https://img.shields.io/badge/Google_IT_Support-000000?style=for-the-badge&logo=google&logoColor=white" alt="google" />
+<img src="https://img.shields.io/badge/IBM_Full_Stack_Developer-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Full Stack Developer" />
+<img src="https://img.shields.io/badge/GCP_Database_Engineer-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Database Engineer" />
+<img src="https://img.shields.io/badge/Google_IT_Support-000000?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:000000&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" alt="footer" />
