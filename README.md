@@ -1,5 +1,5 @@
 <!-- ====================== HEADER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Dhruv%20Patel&fontColor=ffffff&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20%C2%B7%20Backend%20%C2%B7%20Cloud%20%C2%B7%20Developer%20Tooling&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=230&section=header&text=Dhruv%20Patel&fontColor=ffffff&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20%C2%B7%20Backend%20%C2%B7%20Cloud%20%C2%B7%20Developer%20Tooling&descAlignY=58&descSize=18" alt="header" />
 
 <div align="center">
 
@@ -40,33 +40,36 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3" alt="divider" />
 
-<!-- ====================== STATS ====================== -->
+<!-- ====================== FOCUS VISUAL ====================== -->
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=dhruv-techdev&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+### ◼ Focus Zone
+
+<img width="85%" src="https://raw.githubusercontent.com/dhruv-techdev/dhruv-techdev/main/assets/focus.gif" alt="Relaxing developer animation" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3" alt="divider" />
+
+<!-- ====================== GITHUB ACTIVITY ====================== -->
+<div align="center">
+
+### 📈 GitHub Activity
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=dhruv-techdev&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
 <br><br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruv-techdev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=86400" alt="GitHub Stats" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-techdev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Dhruv%20Patel's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-techdev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=86400" alt="Top Languages" />
+</div>
 
-<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3" alt="divider" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhruv-techdev&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<!-- ====================== CERTIFICATIONS ====================== -->
+<div align="center">
 
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-techdev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="GitHub Activity Graph" />
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruv-techdev/dhruv-techdev/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dhruv-techdev/dhruv-techdev/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br><br>
+### 🎓 Certifications
 
 <img src="https://img.shields.io/badge/IBM_Full_Stack_Developer-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Full Stack Developer" />
 <img src="https://img.shields.io/badge/GCP_Database_Engineer-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Database Engineer" />
