@@ -37,9 +37,7 @@
 <!-- ====================== STATS ====================== -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruv-techdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
 <img height="165" src="https://streak-stats.demolab.com/?user=dhruv-techdev&theme=tokyonight&hide_border=true" alt="streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=dhruv-techdev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-techdev&theme=tokyo-night&hide_border=true&area=true" alt="activity" />
 
