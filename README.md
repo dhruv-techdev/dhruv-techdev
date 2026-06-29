@@ -1,5 +1,5 @@
 <!-- ====================== HEADER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=230&section=header&text=Dhruv%20Patel&fontColor=ffffff&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20%C2%B7%20Backend%20%C2%B7%20Cloud%20%C2%B7%20Developer%20Tooling&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Dhruv%20Patel&fontColor=ffffff&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20%C2%B7%20Backend%20%C2%B7%20Cloud%20%C2%B7%20Developer%20Tooling&descAlignY=58&descSize=18" alt="header" />
 
 <div align="center">
 
@@ -40,27 +40,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3" alt="divider" />
 
-<!-- ====================== FOCUS VISUAL ====================== -->
+<!-- ====================== RELAXING VISUAL ====================== -->
 <div align="center">
 
 ### ◼ Focus Zone
 
-<img width="85%" src="https://raw.githubusercontent.com/dhruv-techdev/dhruv-techdev/main/assets/focus.gif" alt="Relaxing developer animation" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3" alt="divider" />
-
-<!-- ====================== GITHUB ACTIVITY ====================== -->
-<div align="center">
-
-### 📈 GitHub Activity
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=dhruv-techdev&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-techdev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Dhruv%20Patel's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+<img width="85%" src="https://raw.githubusercontent.com/AryanK1511/AryanK1511/main/assets/images/readme-gif.gif" alt="Relaxing developer animation" />
 
 </div>
 
