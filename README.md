@@ -35,11 +35,6 @@
 </picture>
 
 <br><br>
-
-<img src="https://img.shields.io/badge/IBM_Full_Stack_Developer-2D4654?style=for-the-badge&logo=ibm&logoColor=EDE6D6" alt="ibm" />
-<img src="https://img.shields.io/badge/GCP_Database_Engineer-4F6B5E?style=for-the-badge&logo=googlecloud&logoColor=EDE6D6" alt="gcp" />
-<img src="https://img.shields.io/badge/Google_IT_Support-34556B?style=for-the-badge&logo=google&logoColor=EDE6D6" alt="google" />
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A4F58,100:25323B&height=120&section=footer" alt="footer" />
