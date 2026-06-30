@@ -15,7 +15,7 @@
 <p>
   <img src="https://img.shields.io/badge/Apps_Shipped-10%2B-4F6B5E?style=for-the-badge&labelColor=2C3E3A" alt="apps" />
   <img src="https://img.shields.io/badge/Tests_Written-100%2B-3E5C5C?style=for-the-badge&labelColor=2A3D3D" alt="tests" />
-  <img src="https://img.shields.io/badge/Jira_Stories-32-46607A?style=for-the-badge&labelColor=2C3A47" alt="jira" />
+  <img src="https://img.shields.io/badge/Jira_Stories-100+-46607A?style=for-the-badge&labelColor=2C3A47" alt="jira" />
   <img src="https://img.shields.io/badge/Status-Open_to_Work-8C6F52?style=for-the-badge&labelColor=4A3D2E" alt="status" />
 </p>
 </div>
