@@ -6,19 +6,13 @@
 
 <br>
 
-`typescript` · `java` · `python` · `react` · `spring` · `aws`
-
+<sub><b>building</b> → <a href="https://github.com/dhruv-techdev/vibecart">vibecart</a> · full-stack e-commerce</sub>
 <br>
-
-<sub>
-
-**building** → [vibecart](https://github.com/dhruv-techdev/vibecart) · full-stack e-commerce  
-**backend** → [shopsphere](https://github.com/dhruv-techdev/ShopSphere-Microservices-E-Commerce) · 8-service microservices  
-**oss** → [sse reliability kit](https://github.com/dhruv-techdev/SSE-Streaming-Reliability-Kit) · [apache airflow](https://github.com/apache/airflow) contributor
-
-</sub>
-
+<sub><b>backend</b> → <a href="https://github.com/dhruv-techdev/ShopSphere-Microservices-E-Commerce">shopsphere</a> · 8-service microservices</sub>
 <br>
+<sub><b>oss</b> → <a href="https://github.com/dhruv-techdev/SSE-Streaming-Reliability-Kit">sse reliability kit</a> · <a href="https://github.com/apache/airflow">apache airflow</a> contributor</sub>
+
+<br><br>
 
 [portfolio](https://dhruv-techdev.vercel.app) · [linkedin](https://www.linkedin.com/in/dhruv-patel-20b959288) · [mail](mailto:dhruv153908@gmail.com)
 
