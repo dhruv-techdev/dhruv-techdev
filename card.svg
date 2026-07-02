@@ -1,0 +1,33 @@
+<svg width="760" height="340" viewBox="0 0 760 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#131a23"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="758" height="338" rx="14" fill="url(#bg)" stroke="#2a313c" stroke-width="1.5"/>
+
+  <!-- corner accents -->
+  <path d="M 40 28 L 28 28 L 28 40" stroke="#4a5462" stroke-width="1.5" fill="none"/>
+  <path d="M 720 312 L 732 312 L 732 300" stroke="#4a5462" stroke-width="1.5" fill="none"/>
+
+  <!-- name -->
+  <text x="380" y="128" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#e6e6e6" letter-spacing="1">Dhruv Patel</text>
+
+  <!-- divider -->
+  <line x1="310" y1="156" x2="450" y2="156" stroke="#3a4250" stroke-width="1"/>
+
+  <!-- title -->
+  <text x="380" y="190" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="13" fill="#8b949e" letter-spacing="5">FULL STACK SOFTWARE DEVELOPER</text>
+
+  <!-- stack: core -->
+  <text x="380" y="244" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#5c6672" letter-spacing="2">typescript&#8194;&#183;&#8194;java&#8194;&#183;&#8194;python&#8194;&#183;&#8194;react&#8194;&#183;&#8194;spring&#8194;&#183;&#8194;node</text>
+
+  <!-- stack: infra -->
+  <text x="380" y="270" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#4a5462" letter-spacing="2">postgresql&#8194;&#183;&#8194;redis&#8194;&#183;&#8194;kafka&#8194;&#183;&#8194;docker&#8194;&#183;&#8194;aws</text>
+
+  <!-- location -->
+  <text x="380" y="302" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#4a5462">toronto, canada</text>
+</svg>
