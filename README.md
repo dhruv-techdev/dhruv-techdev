@@ -12,7 +12,6 @@
 
 <br>
 <br>
-<br>
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhruv-techdev.vercel.app)
 &nbsp;
