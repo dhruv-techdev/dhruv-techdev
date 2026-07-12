@@ -3,7 +3,7 @@
 <br>
 
 <h1>
-  <samp>Welcome, Myself Dhruv</samp>
+  <samp>Hi, I'm Dhruv</samp>
 </h1>
 
 <br>
