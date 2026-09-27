@@ -3,7 +3,7 @@
 <br>
 
 <h1>
-  <samp>Hi, I'm Dhruv!!</samp>
+  <samp>Hi, I'm Dhruv!!</samp><br>
   <samp>0.1% Better Each Day</samp>
 </h1>
 
