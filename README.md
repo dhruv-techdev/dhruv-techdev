@@ -4,6 +4,7 @@
 
 <h1>
   <samp>Hi, I'm Dhruv!!</samp>
+  <samp>0.1% Better Each Day</samp>
 </h1>
 
 <br>
