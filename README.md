@@ -26,8 +26,6 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhruv-techdev/)
 &nbsp;
-[![Upwork](https://img.shields.io/badge/upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c7708732f4806eb1?mp_source=share)
-&nbsp;
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruv153908@gmail.com)
 
 <br>
