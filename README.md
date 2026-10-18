@@ -33,3 +33,8 @@
 
 </div>
 
+<h2 align="center"><samp>🔀 Recent Pull Requests</samp></h2>
+
+<!-- PRS:START -->
+_Updating soon…_
+<!-- PRS:END -->
