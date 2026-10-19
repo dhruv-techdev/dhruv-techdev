@@ -4,12 +4,17 @@
 
 <h1>
   <samp>Hi, I'm Dhruv!!</samp><br>
-  <samp>0.1% Better Each Day</samp>
+  <samp>Half engineer, half AI agent orchestra.</samp>
 </h1>
 
 <br>
 
 <img src="./Cozy Coding Rain.svg" width="800" alt="Cozy coding" />
+
+<br>
+<br>
+
+<samp>Production engineer · shipping fast, fixing faster</samp>
 
 <br>
 <br>
