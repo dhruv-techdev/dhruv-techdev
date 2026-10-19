@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<samp>Production engineer · shipping fast, fixing faster</samp>
+<samp>Product engineer · shipping fast, fixing faster</samp>
 
 <br>
 <br>
