@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<samp>Product engineer · shipping fast, fixing faster</samp>
+<samp>Software engineer · shipping fast, fixing faster</samp>
 
 <br>
 <br>
