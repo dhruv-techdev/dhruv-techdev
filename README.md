@@ -27,8 +27,6 @@
 &nbsp;
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dhruvtechdev)
 &nbsp;
-[![Stack Overflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32874804/dhruv-patel)
-&nbsp;
 [![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhruv-techdev/)
 &nbsp;
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruv153908@gmail.com)
