@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<samp>Software engineer · shipping fast, fixing fasterrrrr</samp>
+<samp>Software Developer · shipping fast, fixing fasterrrrr</samp>
 
 <br>
 <br>
