@@ -14,7 +14,8 @@
 <br>
 <br>
 
-<samp>Software Developer · shipping fast, fixing fasterrrrr</samp>
+<samp>Software Developer · shipping fast, fixing fast</samp></br>
+<sub><samp>git commit -m "small fix" (it was not small)<samp></sub>
 
 <br>
 <br>
