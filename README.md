@@ -4,7 +4,6 @@
 
 <h1>
   <samp>Hi, I'm Dhruv!!</samp><br>
-  <samp>Half Engineer, Half AI agent Orchestra.</samp>
 </h1>
 
 <br>
